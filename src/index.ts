@@ -7,6 +7,7 @@ export { default as useAsyncFn } from './useAsyncFn';
 export { default as useAsyncRetry } from './useAsyncRetry';
 export { default as useAudio } from './useAudio';
 export { default as useBattery } from './useBattery';
+export { default as useConfluxPortal } from './useConfluxPortal';
 export { default as useBeforeUnload } from './useBeforeUnload';
 export { default as useBoolean } from './useBoolean';
 export { default as useClickAway } from './useClickAway';
